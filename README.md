@@ -1,6 +1,6 @@
 # Paquetes .rpm
 
--[img1](img/rocky-linux.png)
+-![img1](img/rocky-linux.png)
 
 ## Indice
 
