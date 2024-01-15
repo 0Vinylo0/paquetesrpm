@@ -16,7 +16,7 @@
 
 - Indicar en qué ficheros se guardan los repositorios.
 
-  4.- Caso práctico.
+4.- Caso práctico.
 
   a) Actualizar el sistema
 
@@ -36,10 +36,6 @@
 - Gracias a [`Página UNIR`](https://www.unir.net/ingenieria/revista/riesgos-laborales-informatica/)
 
 ## Autores
-
-- `Inés Calvo Gil` (http://github.com/Inesita17)
-
-- `Beatriz Lama Jiménez` (https://github.com/BeaLama)
 
 - `Andrés Del Pino Muñoz` (https://github.com/0Vinylo0)
 
