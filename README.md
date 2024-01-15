@@ -32,8 +32,6 @@
   - Desinstalar el paquete.
     - [Casos practicos](contenidos/4-caso_practico.md)
 
-5.- Webgrafía
-
 ## Referencia
 
 - Con ayuda de: `ChatGPT` 
