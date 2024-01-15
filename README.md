@@ -1,5 +1,7 @@
 # Paquetes .rpm
 
+-[img1](img/rocky-linux.png)
+
 ## Indice
 
 1.- Introducción.
