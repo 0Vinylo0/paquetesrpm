@@ -30,7 +30,7 @@
   d) Comprobar que se ha instalado.
 
   e) Desinstalar el paquete.
-    - [Casos practicos](contenidos/4-caso_practico.md)
+        - [Casos practicos](contenidos/4-caso_practico.md)
 
 5.- Webgrafía
 
