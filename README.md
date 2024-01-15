@@ -21,16 +21,16 @@
 
 4.- Caso práctico.
 
-  a) Actualizar el sistema
+  - Actualizar el sistema
 
-  b) Buscar paquetes
+  - Buscar paquetes
 
-  c) Instalar alguno.
+  - Instalar alguno.
 
-  d) Comprobar que se ha instalado.
+  - Comprobar que se ha instalado.
 
-  e) Desinstalar el paquete.
-    [Casos practicos](contenidos/4-caso_practico.md)
+  - Desinstalar el paquete.
+    - [Casos practicos](contenidos/4-caso_practico.md)
 
 5.- Webgrafía
 
