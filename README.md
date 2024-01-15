@@ -1,1 +1,1 @@
-# paquetesrpm
+# Paquetes .rpm
