@@ -7,17 +7,17 @@
 1.- Introducción.
 
 - ¿Qué son los paquetes rpm?
-    -[Que son](contenidos/1-que_son.md)
+    - [Que son](contenidos/1-que_son.md)
 
 2.-Distribución Rocky Linux
 
 - Característica de esta distribución.
-    -[Que son](contenidos/2-caracteristicas.md)
+    - [Caracteristicas](contenidos/2-caracteristicas.md)
 
 3.- Repositorios
 
 - Indicar en qué ficheros se guardan los repositorios.
-    -[Que son](contenidos/3-ficheros.md)
+    - [Ficheros](contenidos/3-ficheros.md)
 
 4.- Caso práctico.
 
@@ -30,7 +30,7 @@
   d) Comprobar que se ha instalado.
 
   e) Desinstalar el paquete.
-    -[Que son](contenidos/4-caso_practico.md)
+    - [Casos practicos](contenidos/4-caso_practico.md)
 
 5.- Webgrafía
 
